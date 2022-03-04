@@ -70,7 +70,7 @@ vcsi
 wand
 wget
 wikipedia
-telethon
+Telethon==1.24.0
 telethon-session-sqlalchemy
 lyrics_extractor
 youtube-search-python==1.4.7
